@@ -78,16 +78,16 @@
         "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3977/LO_3977_hor.png",
-        "cardName": "롤라카드",
-        "cardDesc": "롯데그룹사 7% 롤라머니 적립!",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3856/LO_3856_hor.png",
         "cardName": "LOCA CLASSIC (로카 클래식)",
         "cardDesc": "전월 실적 없이 0.5% 기본 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3977/LO_3977_hor.png",
+        "cardName": "롤라카드",
+        "cardDesc": "롯데그룹사 7% 롤라머니 적립!",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10033/LO_10033_20210202-194432_hor.png",
