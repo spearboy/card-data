@@ -1,11 +1,5 @@
 [
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10286/WR_10286_20230725-123934_ver.png",
-        "cardName": "카드의정석 EVERY MILE SKYPASS",
-        "cardDesc": "스카이패스 1천원당 최대 2마일 적립",
-        "cardAnnual": "국내 3만9천원, 해외 3만9천원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10290/WR_10290_20230817-111237_ver.png",
         "cardName": "트래블월렛 우리카드",
         "cardDesc": "해외 신용&선불결제 수수료 면제서비스",
@@ -16,6 +10,12 @@
         "cardName": "ALL 우리카드 Infinite",
         "cardDesc": "1만 4천 ALL 리워드 포인트 제공",
         "cardAnnual": "국내 50만원, 해외 50만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10286/WR_10286_20230725-123934_ver.png",
+        "cardName": "카드의정석 EVERY MILE SKYPASS",
+        "cardDesc": "스카이패스 1천원당 최대 2마일 적립",
+        "cardAnnual": "국내 3만9천원, 해외 3만9천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10293/WR_10293_20231006-111202_ver.png",

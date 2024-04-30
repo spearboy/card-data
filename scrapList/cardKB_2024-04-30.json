@@ -18,10 +18,10 @@
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/111/KB_111_20230308-153729_hor.png",
-        "cardName": "KB국민 와이즈홈카드",
-        "cardDesc": "통신요금10%, 대중교통 5%청구할인",
-        "cardAnnual": "국내 5천원, 해외 1만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1294/KB_1294_20230308-153427_hor.png",
+        "cardName": "KB국민 굿데이올림카드",
+        "cardDesc": "연회비 만오천원에 연최대94만8천원!",
+        "cardAnnual": "국내 1만5천원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2332/KB_2332_20230215-134842_hor.png",
@@ -30,40 +30,16 @@
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10302/KB_10302_20231115-181801_hor.png",
+        "cardName": "아메리칸 익스프레스 블루 KB국민카드",
+        "cardDesc": "쇼핑·주유·편의점 등 생활영역 할인",
+        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/3717/KB_3717_20230308-152833_hor.png",
         "cardName": "KB국민 Easy all 티타늄카드",
         "cardDesc": "많이 쓴 영역 알아서 자동 캐시백!",
         "cardAnnual": "국내 3만원, 해외 3만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1294/KB_1294_20230308-153427_hor.png",
-        "cardName": "KB국민 굿데이올림카드",
-        "cardDesc": "연회비 만오천원에 연최대94만8천원!",
-        "cardAnnual": "국내 1만5천원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1361/KB_1361_20230125-142108_hor.png",
-        "cardName": "KB국민 FINETECH카드(마일리지 대한항공)",
-        "cardDesc": "국내가맹점 1,500원당 최대 3마일",
-        "cardAnnual": "국내 2만원, 해외 2만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2612/KB_2612_20240126-104113_hor.png",
-        "cardName": "KB국민 The Easy카드",
-        "cardDesc": "대형마트·주유소 최대 5.7% 할인",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2472/KB_2472_20230308-153950_hor.png",
-        "cardName": "KB국민 탄탄대로 온리유 티타늄카드",
-        "cardDesc": "주유소 리터당 최대 200점 적립",
-        "cardAnnual": "국내 3만원, 해외 3만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10267/KB_10267_20240424-101143_ver.png",
-        "cardName": "KB국민 K-패스카드",
-        "cardDesc": "대중교통 10%, 통신비 5% 할인!",
-        "cardAnnual": "국내 8천원, 해외 8천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/99/KB_99_20230308-153721_hor.png",
@@ -72,58 +48,10 @@
         "cardAnnual": "국내 5천원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10039/KB_10039_20230308-153417_hor.png",
-        "cardName": "KB국민행복카드",
-        "cardDesc": "임신중독증 등 단체보험 무료가입",
-        "cardAnnual": "국내전용 없음, 해외겸용 없음"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1451/KB_1451_20240126-112342_hor.png",
-        "cardName": "KB국민 다담카드",
-        "cardDesc": "교통·통신10%,주유L당60원할인",
-        "cardAnnual": "국내 1만5천원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2916/KB_2916_20230127-104432_hor.png",
-        "cardName": "KB국민 BeV V카드(스카이패스형)",
-        "cardDesc": "스카이패스 1500원당 최대3마일적립",
-        "cardAnnual": "국내 29만5천원, 해외 30만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10302/KB_10302_20231115-181801_hor.png",
-        "cardName": "아메리칸 익스프레스 블루 KB국민카드",
-        "cardDesc": "쇼핑·주유·편의점 등 생활영역 할인",
-        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1316/KB_1316_20230308-153352_hor.png",
-        "cardName": "KB국민 가온올림카드(실속형)",
-        "cardDesc": "무실적 전가맹 0.7% 기본적립",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1470/KB_1470_20231024-103817_hor.png",
         "cardName": "KB국민 가온글로벌카드",
         "cardDesc": "해외가맹점 최대 3% 포인트리 적립",
         "cardAnnual": "국내 1만5천원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10215/KB_10215_20230203-141818_ver.png",
-        "cardName": "KB국민 WE:SH All 카드",
-        "cardDesc": "쇼핑 필수카드! 쇼핑멤버십 50%할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10214/KB_10214_20230203-141808_ver.png",
-        "cardName": "KB국민 Our WE:SH 카드",
-        "cardDesc": "마트, 백화점, 동네중심 5%청구할인",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/3638/KB_3638_20230308-153603_hor.png",
-        "cardName": "KB국민 마이핏카드(할인형)",
-        "cardDesc": "외식·마트·주유·통신 등 생활영역",
-        "cardAnnual": "국내 1만원, 해외 1만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10301/KB_10301_20231115-161338_hor.png",
@@ -132,10 +60,34 @@
         "cardAnnual": "국내 1만9천원, 해외 1만9천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10204/KB_10204_20230308-153936_hor.png",
-        "cardName": "KB국민 쿠쿠렌탈Ⅱ카드",
-        "cardDesc": "쿠쿠 렌탈료 자동납부 시 렌탈료",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2916/KB_2916_20230127-104432_hor.png",
+        "cardName": "KB국민 BeV V카드(스카이패스형)",
+        "cardDesc": "스카이패스 1500원당 최대3마일적립",
+        "cardAnnual": "국내 29만5천원, 해외 30만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10215/KB_10215_20230203-141818_ver.png",
+        "cardName": "KB국민 WE:SH All 카드",
+        "cardDesc": "쇼핑 필수카드! 쇼핑멤버십 50%할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10221/KB_10221_20230203-141842_ver.png",
+        "cardName": "HERITAGE Smart [대한항공 마일리지형]",
+        "cardDesc": "대한항공 및 저가항공사 15만원할인!",
+        "cardAnnual": "국내 20만원, 해외 20만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1361/KB_1361_20230125-142108_hor.png",
+        "cardName": "KB국민 FINETECH카드(마일리지 대한항공)",
+        "cardDesc": "국내가맹점 1,500원당 최대 3마일",
+        "cardAnnual": "국내 2만원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1451/KB_1451_20240126-112342_hor.png",
+        "cardName": "KB국민 다담카드",
+        "cardDesc": "교통·통신10%,주유L당60원할인",
+        "cardAnnual": "국내 1만5천원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1362/KB_1362_20230127-093050_hor.png",
@@ -144,10 +96,70 @@
         "cardAnnual": "국내 2만원, 해외 2만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10221/KB_10221_20230203-141842_ver.png",
-        "cardName": "HERITAGE Smart [대한항공 마일리지형]",
-        "cardDesc": "대한항공 및 저가항공사 15만원할인!",
-        "cardAnnual": "국내 20만원, 해외 20만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2472/KB_2472_20230308-153950_hor.png",
+        "cardName": "KB국민 탄탄대로 온리유 티타늄카드",
+        "cardDesc": "주유소 리터당 최대 200점 적립",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10332/KB_10332_20240322-101950_ver.png",
+        "cardName": "KB국민 WE:SH Travel 카드",
+        "cardDesc": "이용실적 없이 해외 이용 수수료 면제",
+        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1316/KB_1316_20230308-153352_hor.png",
+        "cardName": "KB국민 가온올림카드(실속형)",
+        "cardDesc": "무실적 전가맹 0.7% 기본적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2612/KB_2612_20240126-104113_hor.png",
+        "cardName": "KB국민 The Easy카드",
+        "cardDesc": "대형마트·주유소 최대 5.7% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10214/KB_10214_20230203-141808_ver.png",
+        "cardName": "KB국민 Our WE:SH 카드",
+        "cardDesc": "마트, 백화점, 동네중심 5%청구할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2856/KB_2856_20230308-152844_hor.png",
+        "cardName": "KB국민 Easy on카드",
+        "cardDesc": "야놀자·여기어때·데일리호텔 5% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/111/KB_111_20230308-153729_hor.png",
+        "cardName": "KB국민 와이즈홈카드",
+        "cardDesc": "통신요금10%, 대중교통 5%청구할인",
+        "cardAnnual": "국내 5천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10267/KB_10267_20240424-101143_ver.png",
+        "cardName": "KB국민 K-패스카드",
+        "cardDesc": "대중교통 10%, 통신비 5% 할인!",
+        "cardAnnual": "국내 8천원, 해외 8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/3638/KB_3638_20230308-153603_hor.png",
+        "cardName": "KB국민 마이핏카드(할인형)",
+        "cardDesc": "외식·마트·주유·통신 등 생활영역",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10204/KB_10204_20230308-153936_hor.png",
+        "cardName": "KB국민 쿠쿠렌탈Ⅱ카드",
+        "cardDesc": "쿠쿠 렌탈료 자동납부 시 렌탈료",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10039/KB_10039_20230308-153417_hor.png",
+        "cardName": "KB국민행복카드",
+        "cardDesc": "임신중독증 등 단체보험 무료가입",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10220/KB_10220_20230203-141834_ver.png",
@@ -171,18 +183,6 @@
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10043/KB_10043_20230308-152810_ver.png",
         "cardName": "Coffee Bean 신용카드",
         "cardDesc": "커피빈 이용 시 건당 3천원 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10332/KB_10332_20240322-101950_ver.png",
-        "cardName": "KB국민 WE:SH Travel 카드",
-        "cardDesc": "이용실적 없이 해외 이용 수수료 면제",
-        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2856/KB_2856_20230308-152844_hor.png",
-        "cardName": "KB국민 Easy on카드",
-        "cardDesc": "야놀자·여기어때·데일리호텔 5% 할인",
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {

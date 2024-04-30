@@ -6,12 +6,6 @@
         "cardAnnual": "국내 1만5천원, 해외 1만8천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2348/SH_2348_hor.png",
-        "cardName": "신한카드 경차사랑 Life",
-        "cardDesc": "경차유류세 리터당 250원 자동환급!",
-        "cardAnnual": "국내전용 없음, 해외겸용 없음"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2225/SH_2225_20220504-183134_hor.png",
         "cardName": "신한카드 Deep Dream",
         "cardDesc": "전월실적·적립한도 없이 0.7% 적립",
@@ -28,6 +22,12 @@
         "cardName": "신한카드 Deep Oil",
         "cardDesc": "연간 최대 36만원 주유비 할인!",
         "cardAnnual": "국내 1만원, 해외 1만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2348/SH_2348_hor.png",
+        "cardName": "신한카드 경차사랑 Life",
+        "cardDesc": "경차유류세 리터당 250원 자동환급!",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10035/SH_10035_20210303-152640_hor.png",
