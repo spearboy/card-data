@@ -46,14 +46,14 @@ jobs:
         git config --global user.email "tsagaanaa123@gmail.com"
         git config --global user.name "spearboy"
         git add scrapList/cardHana_*.json  # 와일드카드 사용
-        # git add cardHyundai_*.json  # 와일드카드 사용
-        # git add cardIBK_*.json  # 와일드카드 사용
-        # git add cardKB_*.json  # 와일드카드 사용
-        # git add cardLotte_*.json  # 와일드카드 사용
-        # git add cardNH_*.json  # 와일드카드 사용
-        # git add cardSamsung_*.json  # 와일드카드 사용
-        # git add cardSinhan_*.json  # 와일드카드 사용
-        # git add cardWoori_*.json  # 와일드카드 사용
+        git add scrapList/cardHyundai_*.json  # 와일드카드 사용
+        git add scrapList/cardIBK_*.json  # 와일드카드 사용
+        git add scrapList/cardKB_*.json  # 와일드카드 사용
+        git add scrapList/cardLotte_*.json  # 와일드카드 사용
+        git add scrapList/cardNH_*.json  # 와일드카드 사용
+        git add scrapList/cardSamsung_*.json  # 와일드카드 사용
+        git add scrapList/cardSinhan_*.json  # 와일드카드 사용
+        git add scrapList/cardWoori_*.json  # 와일드카드 사용
         git commit -m "신용카드 데이터 수집"
 
     - name: push
