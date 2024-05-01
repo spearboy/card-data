@@ -1,4 +1,7 @@
 # 신용카드 리스트 사이트 데이터 수집
+
+## 개요
+
 1. 사이트는 [네이버](https://naver.com)사이트에서 지원하는 신용카드 데이터를 가져왔습니다.
    각 카드사의 카테고리를 클릭한 url 정보는 아래와 같습니다.
   + [신한카드](https://card-search.naver.com/list?companyCode=SH&brandNames=&sortMethod=ri&isRefetch=true&bizType=CPC)
