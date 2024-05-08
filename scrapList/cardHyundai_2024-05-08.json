@@ -30,16 +30,16 @@
         "cardAnnual": "국내 15만원, 해외 15만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/HD/10338/HD_10338_20240325-222708_ver.png",
-        "cardName": "현대카드Z work Edition2",
-        "cardDesc": "쇼핑·카페·도서·편의점 10% 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/HD/10336/HD_10336_20240325-191557_ver.png",
         "cardName": "현대카드X",
         "cardDesc": "최대 50만 X긴급적립 가능",
         "cardAnnual": "국내 5만원, 해외 5만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/HD/10338/HD_10338_20240325-222708_ver.png",
+        "cardName": "현대카드Z work Edition2",
+        "cardDesc": "쇼핑·카페·도서·편의점 10% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/HD/10112/HD_10112_20211112-185022_ver.png",

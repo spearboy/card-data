@@ -6,16 +6,16 @@
         "cardAnnual": "국내 5천원, 해외 1만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10216/KB_10216_20240314-135529_hor.png",
-        "cardName": "KB국민 My WE:SH 카드",
-        "cardDesc": "음식점최대20%, OTT30% 할인",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1692/KB_1692_20230125-142003_hor.png",
         "cardName": "KB국민 청춘대로 톡톡카드",
         "cardDesc": "스타벅스 최대 60%할인은 기본",
         "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10216/KB_10216_20240314-135529_hor.png",
+        "cardName": "KB국민 My WE:SH 카드",
+        "cardDesc": "음식점최대20%, OTT30% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2332/KB_2332_20230215-134842_hor.png",
@@ -42,28 +42,28 @@
         "cardAnnual": "국내 3만원, 해외 3만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10221/KB_10221_20230203-141842_ver.png",
-        "cardName": "HERITAGE Smart [대한항공 마일리지형]",
-        "cardDesc": "대한항공 및 저가항공사 15만원할인!",
-        "cardAnnual": "국내 20만원, 해외 20만원"
-    },
-    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10302/KB_10302_20231115-181801_hor.png",
         "cardName": "아메리칸 익스프레스 블루 KB국민카드",
         "cardDesc": "쇼핑·주유·편의점 등 생활영역 할인",
         "cardAnnual": "국내 1만9천원, 해외 1만9천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1470/KB_1470_20231024-103817_hor.png",
-        "cardName": "KB국민 가온글로벌카드",
-        "cardDesc": "해외가맹점 최대 3% 포인트리 적립",
-        "cardAnnual": "국내 1만5천원, 해외 2만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10221/KB_10221_20230203-141842_ver.png",
+        "cardName": "HERITAGE Smart [대한항공 마일리지형]",
+        "cardDesc": "대한항공 및 저가항공사 15만원할인!",
+        "cardAnnual": "국내 20만원, 해외 20만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/99/KB_99_20230308-153721_hor.png",
         "cardName": "KB국민 와이즈카드",
         "cardDesc": "많이 쓴 곳 알아서 최대 5%적립",
         "cardAnnual": "국내 5천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1470/KB_1470_20231024-103817_hor.png",
+        "cardName": "KB국민 가온글로벌카드",
+        "cardDesc": "해외가맹점 최대 3% 포인트리 적립",
+        "cardAnnual": "국내 1만5천원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10301/KB_10301_20231115-161338_hor.png",
