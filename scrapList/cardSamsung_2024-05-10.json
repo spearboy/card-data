@@ -60,10 +60,22 @@
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10103/SS_10103_20230103-181015_ver.png",
+        "cardName": "삼성 iD ALL 카드",
+        "cardDesc": "국내외 가맹점 실적한도 없이 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1695/SS_1695_20230103-175044_hor.png",
         "cardName": "삼성페이 삼성카드 taptap",
         "cardDesc": "삼성페이 10%, 통신비10% 할인",
         "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10342/SS_10342_20240329-103302_ver.png",
+        "cardName": "에버랜드 삼성카드",
+        "cardDesc": "에버랜드 50% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/2776/SS_2776_20230103-175020_hor.png",
@@ -78,16 +90,10 @@
         "cardAnnual": "국내 2만원, 해외 2만원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10342/SS_10342_20240329-103302_ver.png",
-        "cardName": "에버랜드 삼성카드",
-        "cardDesc": "에버랜드 50% 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10103/SS_10103_20230103-181015_ver.png",
-        "cardName": "삼성 iD ALL 카드",
-        "cardDesc": "국내외 가맹점 실적한도 없이 할인",
-        "cardAnnual": "국내 2만원, 해외 2만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/593/SS_593_20230103-175539_hor.png",
+        "cardName": "아시아나 삼성애니패스플래티늄",
+        "cardDesc": "아시아나 1천원당 최대 5마일 적립",
+        "cardAnnual": "해외 2만원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/4047/SS_4047_20221229-134221_hor.png",
@@ -108,21 +114,15 @@
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/593/SS_593_20230103-175539_hor.png",
-        "cardName": "아시아나 삼성애니패스플래티늄",
-        "cardDesc": "아시아나 1천원당 최대 5마일 적립",
-        "cardAnnual": "해외 2만원"
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10282/SS_10282_20230719-152544_ver.png",
+        "cardName": "엠베스트 엘리하이 삼성카드",
+        "cardDesc": "메가스터디교육 월 최대 12천원 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
         "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10279/SS_10279_20230719-130831_ver.png",
         "cardName": "코웨이 삼성카드",
         "cardDesc": "코웨이 렌탈료 정기결제시",
-        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
-    },
-    {
-        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10282/SS_10282_20230719-152544_ver.png",
-        "cardName": "엠베스트 엘리하이 삼성카드",
-        "cardDesc": "메가스터디교육 월 최대 12천원 할인",
         "cardAnnual": "국내 1만5천원, 해외 1만5천원"
     },
     {
