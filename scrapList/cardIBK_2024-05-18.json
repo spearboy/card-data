@@ -1,0 +1,176 @@
+[
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10340/IB_10340_20240326-101050_hor.png",
+        "cardName": "I-MILEAGE(대한항공)",
+        "cardDesc": "대한항공 1천원당 1마일리지 적립",
+        "cardAnnual": "국내 4만1천원, 해외 4만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10341/IB_10341_20240326-101521_hor.png",
+        "cardName": "I-MILEAGE(아시아나)",
+        "cardDesc": "아시아나 1천원당 1.5마일리지 적립",
+        "cardAnnual": "국내 4만1천원, 해외 4만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1260/IB_1260_hor.png",
+        "cardName": "기업은행 BLISS.5 카드",
+        "cardDesc": "TOP포인트/항공마일리지 적립택일",
+        "cardAnnual": "국내 9만원, 해외 10만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/3878/IB_3878_hor.png",
+        "cardName": "DailyWith (데일리위드)카드",
+        "cardDesc": "6대생활영역 온라인쇼핑/음식점/병원등",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1342/IB_1342_hor.png",
+        "cardName": "olleh Super DC IBK카드",
+        "cardDesc": "카드사용과 자동이체만으로 통신요금",
+        "cardAnnual": "국내 1만원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1360/IB_1360_hor.png",
+        "cardName": "IBKhi카드",
+        "cardDesc": "철도, 고속버스, 택시 5% 할인!",
+        "cardAnnual": "국내 2천원, 해외 4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1340/IB_1340_hor.png",
+        "cardName": "참! 좋은 kt wiz 카드",
+        "cardDesc": "케이티 위즈파크 입장권 3천원 할인!",
+        "cardAnnual": "국내 2천원, 해외 5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10193/IB_10193_20221109-160236_hor.png",
+        "cardName": "IBK DC히어로즈 카드",
+        "cardDesc": "가장 많이 이용한 영역 1%추가캐시백",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10291/IB_10291_20230831-164706_hor.png",
+        "cardName": "I-PET카드",
+        "cardDesc": "동물병원 30% 할인",
+        "cardAnnual": "국내 1만8천원, 해외 1만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/3837/IB_3837_hor.png",
+        "cardName": "IBK 제주항공 Refresh Point 카드",
+        "cardDesc": "실적 상관없이 제주항공 포인트적립!",
+        "cardAnnual": "국내 2만원, 해외 2만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1203/IB_1203_hor.png",
+        "cardName": "기업은행 Oil & Life카드(Life)",
+        "cardDesc": "전국 음식점,커피,주점, 제과 10%",
+        "cardAnnual": "국내 5천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10354/IB_10354_20240503-164800_ver.png",
+        "cardName": "IBK K-패스(신용)",
+        "cardDesc": "대중교통 최대 300원 할인",
+        "cardAnnual": "국내 2천원, 해외 4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1202/IB_1202_hor.png",
+        "cardName": "기업은행 Oil & Life카드 (Oil)",
+        "cardDesc": "GS칼텍스 리터당 120원 할인!",
+        "cardAnnual": "국내 5천원, 해외 7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10046/IB_10046_20210311-160748_ver.png",
+        "cardName": "무민 카드(신용)",
+        "cardDesc": "쿠팡/티몬/위메프 20% 쇼핑할인!",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1715/IB_1715_hor.png",
+        "cardName": "기업은행 일상의 기쁨카드",
+        "cardDesc": "쿠팡/티몬/위메프 20% 쇼핑할인!",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/3836/IB_3836_hor.png",
+        "cardName": "코웨이 IBK카드",
+        "cardDesc": "코웨이 최대 23,000원 청구할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1768/IB_1768_hor.png",
+        "cardName": "기업은행 마일앤조이카드",
+        "cardDesc": "항공마일리지 1~3마일 적립!",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/2345/IB_2345_hor.png",
+        "cardName": "IBK 국민행복카드",
+        "cardDesc": "임신, 출산진료비 지원 60만원까지!",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/2185/IB_2185_hor.png",
+        "cardName": "IBK-Hybrid카드",
+        "cardDesc": "전월 실적 관계없이 캐시백!",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10266/IB_10266_20230619-162634_hor.png",
+        "cardName": "K-22(Mileage)",
+        "cardDesc": "전세계 공항라운지 무료이용서비스",
+        "cardAnnual": "국내 21만9천원, 해외 22만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1337/IB_1337_hor.png",
+        "cardName": "IBK-Syrup카드",
+        "cardDesc": "IBK와 Syrup이 만났다!",
+        "cardAnnual": "국내 5천원, 해외 7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/2343/IB_2343_hor.png",
+        "cardName": "IBK 그린카드 v2",
+        "cardDesc": "스마트한 녹색소비생활로 포인트 적립!",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1889/IB_1889_hor.png",
+        "cardName": "기업은행 참! 좋은 다이소카드",
+        "cardDesc": "다이소매장 30% 할인, 멤버십 적립",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10283/IB_10283_20230719-173205_hor.png",
+        "cardName": "I-나눔카드(일반)",
+        "cardDesc": "ALL 전월실적조건없음, 기부한도없음",
+        "cardAnnual": "국내 1만4천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/2615/IB_2615_ver.png",
+        "cardName": "쇼핑앤조이 카드",
+        "cardDesc": "오픈마켓/소셜커머스 5,000원 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/1573/IB_1573_hor.png",
+        "cardName": "기업은행 용인시민카드",
+        "cardDesc": "용인시 놀이공원 최대60% 현장할인!",
+        "cardAnnual": "국내 5천원, 해외 7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10265/IB_10265_20230619-150641_hor.png",
+        "cardName": "K-22(Point)",
+        "cardDesc": "전세계 공항라운지 무료이용서비스",
+        "cardAnnual": "국내 21만9천원, 해외 22만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10232/IB_10232_20230221-105307_hor.png",
+        "cardName": "IBK i-ALL 카드",
+        "cardDesc": "ALL 전월실적조건없음, 할인한도없음",
+        "cardAnnual": "국내 1만4천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/IB/10299/IB_10299_20231031-163546_hor.png",
+        "cardName": "IBK기업 I-어디로든 그린카드",
+        "cardDesc": "친환경자동차 충전시 에코머니40%적립",
+        "cardAnnual": "국내 1만5천원, 해외겸용 없음"
+    }
+]
