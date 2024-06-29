@@ -1,0 +1,86 @@
+[
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10333/WR_10333_20240325-114427_ver.png",
+        "cardName": "DA카드의정석Ⅱ",
+        "cardDesc": "할인한도없이 국내외 청구할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10286/WR_10286_20230725-123934_ver.png",
+        "cardName": "카드의정석 EVERY MILE SKYPASS",
+        "cardDesc": "스카이패스 1천원당 최대 2마일 적립",
+        "cardAnnual": "국내 3만9천원, 해외 3만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10345/WR_10345_20240402-145101_ver.png",
+        "cardName": "카드의정석 SHOPPING+",
+        "cardDesc": "온오프라인 쇼핑 10% 청구할인",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10347/WR_10347_20240403-175029_ver.png",
+        "cardName": "카드의정석 EVERY POINT",
+        "cardDesc": "국내외 가맹점 기본 0.8% 적립",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10360/WR_10360_20240524-104544_hor.png",
+        "cardName": "우리 K-패스",
+        "cardDesc": "대중교통 및 자동납부 10% 청구할인",
+        "cardAnnual": "국내 1만3천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10344/WR_10344_20240402-103053_ver.png",
+        "cardName": "D4카드의정석Ⅱ",
+        "cardDesc": "커피 55%,대중교통 33% 청구할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10376/WR_10376_20240624-154009_ver.png",
+        "cardName": "카드의정석 TEN",
+        "cardDesc": "5대 일상영역 10% 청구할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10045/WR_10045_20210305-164718_hor.png",
+        "cardName": "우리 국민행복카드 S2",
+        "cardDesc": "국가바우처, 임신/출산/보육 혜택제공",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10348/WR_10348_20240417-111454_ver.png",
+        "cardName": "카드의정석 I&U+",
+        "cardDesc": "국내가맹점 최대 1% 청구할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10290/WR_10290_20230817-111237_ver.png",
+        "cardName": "트래블월렛 우리카드",
+        "cardDesc": "해외 신용&선불결제 수수료 면제서비스",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10330/WR_10330_20240307-160912_ver.png",
+        "cardName": "카드의정석 Dear, Shopper",
+        "cardDesc": "퍼스널 쇼핑 5% 적립",
+        "cardAnnual": "국내 15만원, 해외 15만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10315/WR_10315_20240104-101941_ver.png",
+        "cardName": "ALL 우리카드 Infinite",
+        "cardDesc": "1만 4천 ALL 리워드 포인트 제공",
+        "cardAnnual": "국내 50만원, 해외 50만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10331/WR_10331_20240307-163355_ver.png",
+        "cardName": "카드의정석 Dear, Traveler",
+        "cardDesc": "퍼스널 트래블 5% 적립",
+        "cardAnnual": "국내 15만원, 해외 15만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/WR/10316/WR_10316_20240104-112354_ver.png",
+        "cardName": "ALL 우리카드 Premium",
+        "cardDesc": "4천 ALL 리워드 포인트 제공",
+        "cardAnnual": "국내 15만원, 해외 15만원"
+    }
+]
