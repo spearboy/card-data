@@ -1,0 +1,284 @@
+[
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10346/NH_10346_20240402-194727_ver.png",
+        "cardName": "zgm point카드",
+        "cardDesc": "전 가맹점 최대 1.8% 기본적립",
+        "cardAnnual": "국내 5만원, 해외 5만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10358/NH_10358_20240523-120123_ver.png",
+        "cardName": "zgm 할인카드",
+        "cardDesc": "국내외 전 가맹점 최대 2% 청구할인",
+        "cardAnnual": "국내 2만7천원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10314/NH_10314_20240109-150832_ver.png",
+        "cardName": "zgm shopping카드",
+        "cardDesc": "쇼핑 최대 15% NH포인트 적립",
+        "cardAnnual": "국내 5만원, 해외 5만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10313/NH_10313_20240109-150806_ver.png",
+        "cardName": "zgm living카드",
+        "cardDesc": "주유소, 공과금, 교육, 통신, 보험",
+        "cardAnnual": "국내 5만원, 해외 5만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10219/NH_10219_20230116-172615_ver.png",
+        "cardName": "zgm.휴가중카드",
+        "cardDesc": "호텔스닷컴 이용 시 20% 즉시할인!",
+        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/1614/NH_1614_20230111-163728_hor.png",
+        "cardName": "NH농협 올원 파이카드",
+        "cardDesc": "온라인쇼핑+선택업종 7~20%청구할인",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10264/NH_10264_20230613-165658_ver.png",
+        "cardName": "zgm.play카드",
+        "cardDesc": "PC게임/피트니스업종/통신/교통 할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10350/NH_10350_20240418-181421_ver.png",
+        "cardName": "NH농협 K-패스카드",
+        "cardDesc": "버스/지하철/택시/철도 10%청구할인",
+        "cardAnnual": "국내 1만3천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/1243/NH_1243_20231018-164008_hor.png",
+        "cardName": "NH농협 올바른POINT UP 카드",
+        "cardDesc": "적립한도없이 0.7~2% 포인트적립!",
+        "cardAnnual": "해외 1만4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3996/NH_3996_hor.png",
+        "cardName": "NH농협 올바른FLEX 카드",
+        "cardDesc": "스타벅스 50%,스트리밍 20% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10160/NH_10160_20220728-105743_hor.png",
+        "cardName": "NH농협 올바른HOMETOWN카드",
+        "cardDesc": "마트/슈퍼마켓/병원/약국 5% 할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/1400/NH_1400_20231020-160231_hor.png",
+        "cardName": "NH농협 국민행복카드(비씨)",
+        "cardDesc": "임신, 출산, 유아학비와 보육료지원!",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10068/NH_10068_20210708-162709_hor.png",
+        "cardName": "NH1961카드",
+        "cardDesc": "전 가맹점 최대 0.8% 적립",
+        "cardAnnual": "국내 1만2천원, 해외 1만4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3055/NH_3055_20231018-165128_hor.png",
+        "cardName": "NH농협 올바른POINT UP+ 카드",
+        "cardDesc": "적립한도없이 0.7~2.2%포인트적립",
+        "cardAnnual": "해외 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3776/NH_3776_20231110-151618_hor.png",
+        "cardName": "NH농협 올바른NEW HAVE 카드",
+        "cardDesc": "기본적립 0.7% 최대 2.1% 적립",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10186/NH_10186_20221018-105717_ver.png",
+        "cardName": "zgm.streaming카드",
+        "cardDesc": "스타벅스/넷플릭스 50% 할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3958/NH_3958_20230906-150531_hor.png",
+        "cardName": "NH농협 올바른BAZIC+ 카드",
+        "cardDesc": "할인한도없이 0.7~1.4% 기본할인",
+        "cardAnnual": "해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10262/NH_10262_20230608-180723_hor.png",
+        "cardName": "NH올원 Rental&코웨이카드",
+        "cardDesc": "매월 코웨이 렌탈료1~3만원 청구할인",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3337/NH_3337_ver.png",
+        "cardName": "NH농협 위 레아카드(포인트)",
+        "cardDesc": "포인트 적립 국내 1%, 해외 2%",
+        "cardAnnual": "해외 29만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10187/NH_10187_20221018-133846_ver.png",
+        "cardName": "zgm.the pay카드",
+        "cardDesc": "국내외 전 가맹점 1.0% 청구할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10297/NH_10297_20231022-162956_ver.png",
+        "cardName": "NH농협 어디로든 그린카드",
+        "cardDesc": "전기차/수소차 충전 최대 40% 적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3777/NH_3777_20231110-153503_hor.png",
+        "cardName": "NH농협 올바른NEW HAVE+ 카드",
+        "cardDesc": "기본적립 0.7% 최대 3.5% 적립",
+        "cardAnnual": "국내 2만3천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/2206/NH_2206_hor.png",
+        "cardName": "NH20 해봄카드",
+        "cardDesc": "커피 30%, 쇼핑 10% 청구할인!",
+        "cardAnnual": "해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10233/NH_10233_20230224-162949_ver.png",
+        "cardName": "zgm.rounding카드",
+        "cardDesc": "쇼골프 연습장 50% 할인",
+        "cardAnnual": "국내 2만3천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10097/NH_10097_20211012-171045_hor.png",
+        "cardName": "NH농협 SOHO 다사로이+카드",
+        "cardDesc": "4대사회보험·전기요금 5% 특별할인",
+        "cardAnnual": "국내 2만3천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/4044/NH_4044_20231020-165027_hor.png",
+        "cardName": "NH농협 온플래티늄(ON Platinum)카드(포인트)",
+        "cardDesc": "기본적립에 더블적립, 보너스포인트까지",
+        "cardAnnual": "국내 11만8천원, 해외 11만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10287/NH_10287_20230811-154924_ver.png",
+        "cardName": "zgm.일본여행중카드",
+        "cardDesc": "해외수수료 면제, 일본 10%적립",
+        "cardAnnual": "국내 2만3천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10164/NH_10164_20220809-100545_ver.png",
+        "cardName": "GS리테일 NH농협카드",
+        "cardDesc": "GS리테일 이용시 2% GS포인트적립",
+        "cardAnnual": "국내 1만2천원, 해외 1만4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10128/NH_10128_20220113-174853_ver.png",
+        "cardName": "NH농협 별다줄카드",
+        "cardDesc": "국내 온라인 전 가맹점 7% 청구할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/652/NH_652_20230214-135141_hor.png",
+        "cardName": "NH농협 SKYPASS카드",
+        "cardDesc": "영화/커피 2배 면세/항공 3배 적립",
+        "cardAnnual": "해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10261/NH_10261_20230608-150731_ver.png",
+        "cardName": "zgm.play++카드",
+        "cardDesc": "워터파크 2인 입장교환권 제공",
+        "cardAnnual": "국내 6만3천원, 해외 6만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3716/NH_3716_hor.png",
+        "cardName": "NH농협 Asiana Club (아시아나클럽) 카드",
+        "cardDesc": "영화/커피 2배 면세/항공 3배 적립",
+        "cardAnnual": "해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3436/NH_3436_20231110-155044_hor.png",
+        "cardName": "NH농협 올바른MYPICK 카드",
+        "cardDesc": "커피/교통+내 선택 팩 5% 청구할인",
+        "cardAnnual": "국내 1만3천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3556/NH_3556_20230523-171413_hor.png",
+        "cardName": "NH농협 올바른OIL&PASS 카드",
+        "cardDesc": "OIL팩/PASS팩 교통수단 청구할인",
+        "cardAnnual": "국내 1만3천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10138/NH_10138_20220325-113621_hor.png",
+        "cardName": "NH농협 SOHO 다사로이OIL카드",
+        "cardDesc": "전 주유소 및 LPG 5% 청구할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3957/NH_3957_20230710-130204_hor.png",
+        "cardName": "NH농협 올바른BAZIC 카드",
+        "cardDesc": "할인한도 없이 0.7%~1.2% 할인",
+        "cardAnnual": "해외 1만4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3237/NH_3237_20221212-090817_hor.png",
+        "cardName": "NH농협 올바른하나로(Hanaro) 카드",
+        "cardDesc": "농협판매장 이용금액5% NH포인트적립",
+        "cardAnnual": "국내 1만3천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3338/NH_3338_ver.png",
+        "cardName": "NH농협 위 테라카드(포인트)",
+        "cardDesc": "포인트 적립 국내 1%, 해외 2%",
+        "cardAnnual": "해외 49만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10211/NH_10211_20221221-101322_hor.png",
+        "cardName": "NH올원 Rental&바디프랜드카드",
+        "cardDesc": "바디프랜드 월 최대 3만원 렌탈할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만4천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3799/NH_3799_hor.jpg",
+        "cardName": "NH농협 펫블리(PETvely) 카드",
+        "cardDesc": "반려동물병원 7% 포인트 적립",
+        "cardAnnual": "해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/2511/NH_2511_20230111-164130_hor.png",
+        "cardName": "NH농협 올바른OIL카드",
+        "cardDesc": "GS, 농협주유소 최대 150원 할인",
+        "cardAnnual": "해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/3877/NH_3877_hor.png",
+        "cardName": "NH농협 올바른Edu카드",
+        "cardDesc": "유치원/학원/학습지 5% 청구할인",
+        "cardAnnual": "국내 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10181/NH_10181_20220919-111151_ver.png",
+        "cardName": "나무 NH농협카드",
+        "cardDesc": "나무증권 계좌로 스마트 캐시백",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10132/NH_10132_20220207-131312_hor.png",
+        "cardName": "NH농협 올바른지구카드",
+        "cardDesc": "이동통신요금 5% 청구할인",
+        "cardAnnual": "국내 1만3천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10241/NH_10241_20230323-133544_hor.png",
+        "cardName": "zgm.고향으로카드",
+        "cardDesc": "주말 국내 1% 기부지역 1.7%적립",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/10096/NH_10096_20211012-163552_hor.png",
+        "cardName": "NH농협 SOHO 다사로이카드",
+        "cardDesc": "4대사회보험·전기요금 5% 특별할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/NH/2414/NH_2414_hor.png",
+        "cardName": "NH올원 쇼핑&TLC카드",
+        "cardDesc": "3년 장기할부 시 최대 72만원 할인",
+        "cardAnnual": "국내 1만3천원, 해외 1만5천원"
+    }
+]
