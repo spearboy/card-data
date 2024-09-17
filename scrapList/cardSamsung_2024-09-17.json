@@ -1,0 +1,302 @@
+[
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1530/SS_1530_20221229-134605_hor.png",
+        "cardName": "삼성카드 taptap O",
+        "cardDesc": "스타벅스50% 교통10% 쇼핑7%할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3881/SS_3881_20221229-141914_hor.png",
+        "cardName": "taptap DRIVE",
+        "cardDesc": "모든주유소 리터당 최대 150원 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10126/SS_10126_20221229-134439_ver.png",
+        "cardName": "삼성 iD ENERGY 카드",
+        "cardDesc": "주유 건별 10,000원 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/277/SS_277_20230103-175513_hor.png",
+        "cardName": "신세계이마트 삼성카드 7",
+        "cardDesc": "신세계백화점 5%, 이마트 6천원할인",
+        "cardAnnual": "국내 1만8천원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10157/SS_10157_20230103-181148_ver.png",
+        "cardName": "삼성 iD SIMPLE 카드",
+        "cardDesc": "쿠팡 와우 멤버십 50% 할인",
+        "cardAnnual": "국내 7천원, 해외 7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/593/SS_593_20230103-175539_hor.png",
+        "cardName": "아시아나 삼성애니패스플래티늄",
+        "cardDesc": "아시아나 1천원당 최대 5마일 적립",
+        "cardAnnual": "해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1531/SS_1531_20221229-134657_hor.png",
+        "cardName": "삼성카드 taptap S",
+        "cardDesc": "적립한도 없이 모든 가맹점 1% 적립",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10103/SS_10103_20230103-181015_ver.png",
+        "cardName": "삼성 iD ALL 카드",
+        "cardDesc": "국내외 가맹점 실적한도 없이 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10256/SS_10256_20230602-133911_ver.png",
+        "cardName": "삼성 iD VITA 카드",
+        "cardDesc": "병/의원, 약국 20% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10349/SS_10349_20240417-175252_ver.png",
+        "cardName": "K-패스 삼성카드",
+        "cardDesc": "대중교통 10%, 커피 20%할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3857/SS_3857_20230103-174906_hor.png",
+        "cardName": "taptap DIGITAL",
+        "cardDesc": "넷플릭스·멜론 등 스트리밍 50%할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10342/SS_10342_20240329-103302_ver.png",
+        "cardName": "에버랜드 삼성카드",
+        "cardDesc": "에버랜드 50% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10282/SS_10282_20230719-152544_ver.png",
+        "cardName": "엠베스트 엘리하이 삼성카드",
+        "cardDesc": "메가스터디교육 월 최대 12천원 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10284/SS_10284_20230720-171210_ver.png",
+        "cardName": "MY S-OIL 삼성카드",
+        "cardDesc": "S-OIL 주유 10% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10156/SS_10156_20230104-152239_ver.png",
+        "cardName": "삼성 iD AUTO 카드",
+        "cardDesc": "주유 리터당 70원 / 90원 할인",
+        "cardAnnual": "국내 4만9천원, 해외 4만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10100/SS_10100_20230103-174044_ver.png",
+        "cardName": "롯데월드카드 (삼성카드)",
+        "cardDesc": "롯데월드 종합이용권 2인 50% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/4047/SS_4047_20221229-134221_hor.png",
+        "cardName": "국민행복 삼성카드 V2",
+        "cardDesc": "쇼핑, 보육, 생활요금 7% 할인",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1465/SS_1465_20221229-134520_ver.png",
+        "cardName": "삼성카드 & MILEAGE PLATINUM(스카이패스)",
+        "cardDesc": "스카이패스 천원당 최대 2마일 적립",
+        "cardAnnual": "국내 4만7천원, 해외 4만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10328/SS_10328_20240306-145101_ver.png",
+        "cardName": "삼성 iD PLUG-IN 카드",
+        "cardDesc": "전기차 충전요금 최대 40% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10280/SS_10280_20230719-142937_ver.png",
+        "cardName": "쿠쿠 삼성카드",
+        "cardDesc": "쿠쿠 렌탈료 정기결제시",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10279/SS_10279_20230719-130831_ver.png",
+        "cardName": "코웨이 삼성카드",
+        "cardDesc": "코웨이 렌탈료 정기결제시",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10102/SS_10102_20230217-102927_ver.png",
+        "cardName": "삼성 iD ON 카드",
+        "cardDesc": "연 최대 48만원 할인!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10184/SS_10184_20221004-224031_ver.png",
+        "cardName": "삼성 iD PET 카드",
+        "cardDesc": "동물병원, 반려동물쇼핑몰 30%할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10311/SS_10311_20231213-104200_ver.png",
+        "cardName": "모니모A 카드",
+        "cardDesc": "한도없이최대1%적립+최대3만P추가적립",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1695/SS_1695_20230103-175044_hor.png",
+        "cardName": "삼성페이 삼성카드 taptap",
+        "cardDesc": "삼성페이 10%, 통신비10% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/2776/SS_2776_20230103-175020_hor.png",
+        "cardName": "네이버페이 taptap",
+        "cardDesc": "네이버페이 간편결제 10% 적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10146/SS_10146_20230103-181035_ver.png",
+        "cardName": "삼성 iD MOVE 카드",
+        "cardDesc": "스트리밍·교통·이동통신 10%할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10246/SS_10246_20230414-174718_ver.png",
+        "cardName": "네이버웹툰 삼성 iD 카드",
+        "cardDesc": "네이버웹툰,시리즈,시리즈온 50%",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3896/SS_3896_20230103-174943_hor.png",
+        "cardName": "taptap SHOPPING",
+        "cardDesc": "온·오프라인쇼핑 연 최대 48만원할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10237/SS_10237_20230302-201230_ver.png",
+        "cardName": "삼성 iD NOMAD 카드",
+        "cardDesc": "여행, 여가, 면세점 기프트서비스에",
+        "cardAnnual": "국내 4만7천원, 해외 4만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10281/SS_10281_20230719-115645_hor.png",
+        "cardName": "SK매직 삼성카드",
+        "cardDesc": "SK매직 렌탈료 정기결제시",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10397/SS_10397_20240710-133519_ver.png",
+        "cardName": "하나투어 삼성카드",
+        "cardDesc": "하나투어 12/24개월 라이트할부",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10343/SS_10343_20240329-110153_ver.png",
+        "cardName": "삼성iD GLOBAL 카드",
+        "cardDesc": "전월 실적 관계 없이",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10130/SS_10130_20230103-175640_ver.png",
+        "cardName": "삼성카드 BIZ LEADERS",
+        "cardDesc": "4대 사회보험·손해보험 10% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10134/SS_10134_20230103-175701_ver.png",
+        "cardName": "삼성 BIZ iD BENEFIT 카드",
+        "cardDesc": "사업 필수 경비 1.5% 할인",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10406/SS_10406_20240813-094155_ver.png",
+        "cardName": "삼성 iD ONE 카드",
+        "cardDesc": "백화점/할인점/쇼핑/주유",
+        "cardAnnual": "국내 5만원, 해외 5만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/2676/SS_2676_20221102-175329_hor.png",
+        "cardName": "트레이더스 신세계 삼성카드",
+        "cardDesc": "트레이더스 최대5%, 신세계할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/2418/SS_2418_20230103-175201_hor.png",
+        "cardName": "삼성카드 스페셜마일리지",
+        "cardDesc": "스카이패스 1천원당 최대 2마일적립",
+        "cardAnnual": "국내 9만7천원, 해외 9만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3959/SS_3959_20230103-180745_hor.png",
+        "cardName": "아메리칸 엑스프레스 블루",
+        "cardDesc": "편의점·배달앱 등 일상 속 혜택카드!",
+        "cardAnnual": "해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/2419/SS_2419_20230103-175449_hor.png",
+        "cardName": "신세계 멘즈라이프 삼성카드",
+        "cardDesc": "신세계7%, 택시·편의점 등 3%할인",
+        "cardAnnual": "국내 4만9천원, 해외 4만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10236/SS_10236_20230302-194422_ver.png",
+        "cardName": "THE iD. PLATINUM (포인트)",
+        "cardDesc": "5가지 기프트서비스 택1",
+        "cardAnnual": "국내 21만5천원, 해외 22만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10235/SS_10235_20230302-190107_ver.png",
+        "cardName": "THE iD. TITANIUM (포인트)",
+        "cardDesc": "5가지 기프트서비스 택2",
+        "cardAnnual": "국내 69만5천원, 해외 70만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10118/SS_10118_20230103-181130_ver.png",
+        "cardName": "삼성 iD POCKET 카드",
+        "cardDesc": "대중교통 최대 2% 할인",
+        "cardAnnual": "국내 1천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/3196/SS_3196_20230103-180106_ver.png",
+        "cardName": "T 라이트 삼성카드",
+        "cardDesc": "SKT 2년장기할부 최대 48만원할인",
+        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/1597/SS_1597_20230103-174800_hor.png",
+        "cardName": "CU·배달의민족 삼성카드 taptap",
+        "cardDesc": "CU·배달의민족 월 최대 1만원할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/2836/SS_2836_20230103-174717_hor.png",
+        "cardName": "홈플러스 삼성카드",
+        "cardDesc": "홈플러스 최대 5% 결제일할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10374/SS_10374_20240611-163818_ver.png",
+        "cardName": "삼성 iD CLASSY 카드",
+        "cardDesc": "온라인쇼핑몰,병원에서 최대1%추가적립",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/205/SS_205_20230103-175618_hor.png",
+        "cardName": "삼성카앤모아카드",
+        "cardDesc": "주유소 60원/L할인에 포인트자동결제",
+        "cardAnnual": "국내 8천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/10049/SS_10049_20230103-180448_hor.png",
+        "cardName": "아메리칸 엑스프레스 리저브",
+        "cardDesc": "메탈플레이트 기본 제공",
+        "cardAnnual": "해외 15만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SS/4048/SS_4048_20230103-175600_hor.png",
+        "cardName": "요기요 삼성카드",
+        "cardDesc": "요기요 월 최대 2만원 결제일할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    }
+]
