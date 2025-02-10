@@ -1,0 +1,224 @@
+[
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10304/LO_10304_20231114-020043_ver.png",
+        "cardName": "디지로카 London",
+        "cardDesc": "국내 모든 가맹점 최대 1.7%캐시백",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10141/LO_10141_20220401-175950_hor.png",
+        "cardName": "LOCA 365",
+        "cardDesc": "관리비, 공과금 10% 할인!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10387/LO_10387_20240702-103201_ver.png",
+        "cardName": "디지로카 Edu",
+        "cardDesc": "학원, 유치원 최대 7% 캐시백",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10375/LO_10375_20240614-140841_ver.png",
+        "cardName": "디지로카 Las Vegas",
+        "cardDesc": "국내외 가맹점 최대 2% 할인!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10303/LO_10303_20231114-004652_ver.png",
+        "cardName": "디지로카 Paris",
+        "cardDesc": "쿠팡 G마켓 등 최대5% 결제일 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10105/LO_10105_20211111-160041_ver.png",
+        "cardName": "LOCA LIKIT 1.2",
+        "cardDesc": "국내외 모든 가맹점 1.2% 할인!",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/1684/LO_1684_20220915-160142_hor.png",
+        "cardName": "롯데백화점 롯데카드",
+        "cardDesc": "롯데백화점 15% 청구할인 서비스!",
+        "cardAnnual": "국내 1만원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/1322/LO_1322_hor.png",
+        "cardName": "롯데 국민행복카드",
+        "cardDesc": "정부지원금100만원&보육료·병원 할인",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10176/LO_10176_20220823-135019_hor.png",
+        "cardName": "LOCA 나누기 카드",
+        "cardDesc": "수수료 없이 3개월, 6개월로 나누기",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10310/LO_10310_20231130-011130_ver.png",
+        "cardName": "KT DC PLUS 롯데카드",
+        "cardDesc": "KT 통신비 최대 1만3천원 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10107/LO_10107_20211111-174314_ver.png",
+        "cardName": "LOCA LIKIT Shop",
+        "cardDesc": "놓칠 수 없는 온라인쇼핑 60% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10071/LO_10071_20210802-162442_ver.png",
+        "cardName": "LOCA LIKIT",
+        "cardDesc": "연 최대 42만원 할인 혜택!",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10106/LO_10106_20211111-171423_ver.png",
+        "cardName": "LOCA LIKIT Eat",
+        "cardDesc": "음식점·배달앱·커피 60% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10108/LO_10108_20211111-182305_ver.png",
+        "cardName": "LOCA LIKIT Play",
+        "cardDesc": "주유·영화·스트리밍 60% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10391/LO_10391_20240702-104217_ver.png",
+        "cardName": "디지로카 Wellness",
+        "cardDesc": "피부과, 성형외과 등 최대 7%캐시백",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10307/LO_10307_20231121-040446_ver.png",
+        "cardName": "롯데카드 텔로 SE",
+        "cardDesc": "SKT 통신비 최대 1만3천원 할인",
+        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3856/LO_3856_hor.png",
+        "cardName": "LOCA CLASSIC (로카 클래식)",
+        "cardDesc": "전월 실적 없이 0.5% 기본 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10428/LO_10428_20241113-143714_hor.png",
+        "cardName": "LOCA X 기후동행카드",
+        "cardDesc": "국내 가맹점 한도 없이 0.5% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10388/LO_10388_20240702-104039_hor.png",
+        "cardName": "디지로카 Golf",
+        "cardDesc": "골프장, 골프연습장 최대 7% 캐시백",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10454/LO_10454_20250206-174330_ver.png",
+        "cardName": "K-패스엔로카",
+        "cardDesc": "버스/지하철 최대 1.5만원 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10352/LO_10352_20240423-163429_ver.png",
+        "cardName": "모바일엔디지로카",
+        "cardDesc": "24시간 빠른 신청",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/2226/LO_2226_hor.png",
+        "cardName": "경차 smart 롯데카드",
+        "cardDesc": "연간 30만원 경차 유류세 환급",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10276/LO_10276_20230717-153220_hor.PNG",
+        "cardName": "LOCA PLATINUM(마일리지형)",
+        "cardDesc": "SKYPASS 마일리지 특별 적립",
+        "cardAnnual": "국내 10만원, 해외 10만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10033/LO_10033_20210202-194432_hor.png",
+        "cardName": "LOCA MONEY (로카 머니)",
+        "cardDesc": "한도 없이 최대 2% 로카코인 적립!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/247/LO_247_hor.png",
+        "cardName": "롯데 포인트플러스 카드",
+        "cardDesc": "L.POINT 제휴사 더블포인트 적립",
+        "cardAnnual": "국내 5천원, 해외 5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10317/LO_10317_20240110-202003_ver.png",
+        "cardName": "어디로든 그린카드 X LOCA",
+        "cardDesc": "에코머니 포인트 최대 40% 적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/870/LO_870_hor.png",
+        "cardName": "뉴 에듀드림 롯데카드",
+        "cardDesc": "학원, 유치원 업종 최대 10% 할인",
+        "cardAnnual": "국내 5천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10029/LO_10029_20210126-154759_hor.png",
+        "cardName": "LOCA 100",
+        "cardDesc": "국내외 가맹점 최대 1% 할인!",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/3936/LO_3936_ver.png",
+        "cardName": "New PAYCO 롯데카드",
+        "cardDesc": "PAYCO로 결제하면 최대 3% 적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10277/LO_10277_20230717-164350_hor.png",
+        "cardName": "LOCA PLATINUM(할인형)",
+        "cardDesc": "국내외 가맹점 0.5% 결제일 할인",
+        "cardAnnual": "국내 10만원, 해외 10만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10389/LO_10389_20240702-104050_ver.png",
+        "cardName": "디지로카 Auto",
+        "cardDesc": "주유비 리터당 최대 150원 캐시백!",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/2888/LO_2888_ver.png",
+        "cardName": "LOTTE ONers 롯데카드",
+        "cardDesc": "롯데ON 최대 3% 적립",
+        "cardAnnual": "국내 5천원, 해외 5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/4096/LO_4096_20201217-114017_hor.png",
+        "cardName": "롯데백화점 FLEX 카드",
+        "cardDesc": "한도없이 L포인트 0.5% 적립!",
+        "cardAnnual": "국내 10만원, 해외 10만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10271/LO_10271_20230630-151332_hor.png",
+        "cardName": "LOCA 환승 카드",
+        "cardDesc": "환승 프로젝트 최대 5만원 캐시백!",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10390/LO_10390_20240702-104058_ver.png",
+        "cardName": "디지로카 Pet",
+        "cardDesc": "반려동물센터,동물병원 최대 7%캐시백",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10306/LO_10306_20231114-163944_ver.png",
+        "cardName": "LOCA Professional",
+        "cardDesc": "실적조건·한도없이 최대 2% 캐시백",
+        "cardAnnual": "국내 30만원, 해외 30만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/LO/10305/LO_10305_20231114-025827_ver.png",
+        "cardName": "디지로카 Monaco",
+        "cardDesc": "쿠팡 G마켓 등 최대5% 결제일 할인",
+        "cardAnnual": "국내 12만5천원, 해외 12만5천원"
+    }
+]
