@@ -1,0 +1,194 @@
+[
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/115/KB_115_20230125-142026_hor.png",
+        "cardName": "KB국민 굿데이카드",
+        "cardDesc": "통신·교통·외식 등 생활영역10%할인",
+        "cardAnnual": "국내 5천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1692/KB_1692_20230125-142003_hor.png",
+        "cardName": "KB국민 청춘대로 톡톡카드",
+        "cardDesc": "스타벅스 최대 60%할인은 기본",
+        "cardAnnual": "국내 1만원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1294/KB_1294_20230308-153427_hor.png",
+        "cardName": "KB국민 굿데이올림카드",
+        "cardDesc": "연회비 만오천원에 연최대94만8천원!",
+        "cardAnnual": "국내 1만5천원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10267/KB_10267_20240424-101143_ver.png",
+        "cardName": "KB국민 K-패스카드",
+        "cardDesc": "대중교통 10%, 통신비 5% 할인!",
+        "cardAnnual": "국내 8천원, 해외 8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10447/KB_10447_20241218-150340_hor.png",
+        "cardName": "KB국민 기후동행카드",
+        "cardDesc": "후불 기후동행카드+생활영역 청구할인",
+        "cardAnnual": "국내 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10039/KB_10039_20230308-153417_hor.png",
+        "cardName": "KB국민행복카드",
+        "cardDesc": "임신중독증 등 단체보험 무료가입",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/710/KB_710_20230308-153437_hor.png",
+        "cardName": "KB국민 그린카드(전국형)",
+        "cardDesc": "연회비없음! 쇼핑 최대 3%",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/3717/KB_3717_20230308-152833_hor.png",
+        "cardName": "KB국민 Easy all 티타늄카드",
+        "cardDesc": "많이 쓴 영역 알아서 자동 캐시백!",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2332/KB_2332_20230215-134842_hor.png",
+        "cardName": "KB국민 톡톡Pay카드",
+        "cardDesc": "간편결제(Pay) 청구할인 최대40%",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2612/KB_2612_20240126-104113_hor.png",
+        "cardName": "KB국민 The Easy카드",
+        "cardDesc": "대형마트·주유소 최대 5.7% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10216/KB_10216_20240314-135529_hor.png",
+        "cardName": "KB국민 My WE:SH 카드",
+        "cardDesc": "음식점최대20%, OTT30% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10332/KB_10332_20240829-110648_ver.png",
+        "cardName": "KB국민 WE:SH Travel 카드",
+        "cardDesc": "이용실적 없이 해외 이용 수수료 면제",
+        "cardAnnual": "국내 2만5천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1316/KB_1316_20230308-153352_hor.png",
+        "cardName": "KB국민 가온올림카드(실속형)",
+        "cardDesc": "무실적 전가맹 0.7% 기본적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1451/KB_1451_20240126-112342_hor.png",
+        "cardName": "KB국민 다담카드",
+        "cardDesc": "교통·통신10%,주유L당60원할인",
+        "cardAnnual": "국내 1만5천원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/3076/KB_3076_20230308-153450_hor.png",
+        "cardName": "KB국민 그린카드(서울형)",
+        "cardDesc": "연회비없음! 쇼핑 최대 3%",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/99/KB_99_20230308-153721_hor.png",
+        "cardName": "KB국민 와이즈카드",
+        "cardDesc": "많이 쓴 곳 알아서 최대 5%적립",
+        "cardAnnual": "국내 5천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10301/KB_10301_20231115-161338_hor.png",
+        "cardName": "아메리칸 익스프레스 로즈골드 KB국민카드",
+        "cardDesc": "KB Pay 결제시 최대 10% 할인",
+        "cardAnnual": "국내 1만9천원, 해외 1만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/3638/KB_3638_20230308-153603_hor.png",
+        "cardName": "KB국민 마이핏카드(할인형)",
+        "cardDesc": "외식·마트·주유·통신 등 생활영역",
+        "cardAnnual": "국내 1만원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2857/KB_2857_20230308-152855_hor.png",
+        "cardName": "KB국민 Easy Pick카드",
+        "cardDesc": "쇼핑·마트·주유·교통 5% 기본적립",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/1470/KB_1470_20231024-103817_hor.png",
+        "cardName": "KB국민 가온글로벌카드",
+        "cardDesc": "해외가맹점 최대 3% 포인트리 적립",
+        "cardAnnual": "국내 1만5천원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10058/KB_10058_20210817-151322_ver.png",
+        "cardName": "KB국민 KB Pay 챌린지카드",
+        "cardDesc": "KB Pay이용시 월 최대5만포인트리",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2856/KB_2856_20230308-152844_hor.png",
+        "cardName": "KB국민 Easy on카드",
+        "cardDesc": "야놀자·여기어때·데일리호텔 5% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10386/KB_10386_20240704-101806_ver.png",
+        "cardName": "KB국민 WE:SH Daily 카드",
+        "cardDesc": "쇼핑, 편의점 10% 청구할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10059/KB_10059_20230308-152907_hor.png",
+        "cardName": "KB국민 Green Wave 1.5℃ 카드",
+        "cardDesc": "친환경마켓 20% 포인트리 적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2487/KB_2487_hor.png",
+        "cardName": "KB국민 코웨이Ⅱ카드",
+        "cardDesc": "코웨이 렌탈료 월최대 2만원 할인!",
+        "cardAnnual": "해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10441/KB_10441_20241129-151303_hor.png",
+        "cardName": "세라젬 KB국민카드",
+        "cardDesc": "세라젬 자동납부할인 서비스",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10421/KB_10421_20241031-151529_ver.png",
+        "cardName": "이마트II KB국민카드(옐로우)",
+        "cardDesc": "이마트/트레이더스 최대 30% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10420/KB_10420_20241030-144956_ver.png",
+        "cardName": "KB국민 EV카드",
+        "cardDesc": "전기/수소차 충전 청구할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10419/KB_10419_20241028-085134_ver.png",
+        "cardName": "CU KB국민카드",
+        "cardDesc": "CU편의점 최대 50% 청구 할인",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/2757/KB_2757_20241119-152906_hor.png",
+        "cardName": "KB국민 예다함카드",
+        "cardDesc": "예다함 상조부금 자동납부할인 서비스",
+        "cardAnnual": "해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10433/KB_10433_20241122-141930_hor.png",
+        "cardName": "캐롯손해보험 KB국민카드",
+        "cardDesc": "캐롯손해보험 자동납부할인 서비스",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/KB/10434/KB_10434_20241125-140841_hor.png",
+        "cardName": "대명아임레디 KB국민카드",
+        "cardDesc": "대명아임레디 월최대 1만7천원 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    }
+]
