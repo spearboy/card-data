@@ -1,0 +1,368 @@
+[
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/1408/SH_1408_20230213-143750_ver.png",
+        "cardName": "신한카드 Mr.Life",
+        "cardDesc": "공과금/통신요금 10% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2797/SH_2797_20241111-103501_ver.png",
+        "cardName": "신한카드 Air One",
+        "cardDesc": "이용금액 1천원당 1마일리지 적립",
+        "cardAnnual": "국내 4만9천원, 해외 5만1천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2337/SH_2337_20240105-105602_ver.png",
+        "cardName": "신한카드 Deep Oil",
+        "cardDesc": "내가 선택한 주유소에서 10% 할인",
+        "cardAnnual": "국내 1만원, 해외 1만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10490/SH_10490_20250515-173049_ver.png",
+        "cardName": "신한카드 Discount Plan",
+        "cardDesc": "넷플릭스, 네이버플러스 20% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10485/SH_10485_20250425-160918_ver.png",
+        "cardName": "신한카드 Discount Plan+",
+        "cardDesc": "넷플릭스, 네이버플러스 20% 할인",
+        "cardAnnual": "국내 5만원, 해외 5만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/1385/SH_1385_20231220-181630_ver.png",
+        "cardName": "신한카드 Simple+",
+        "cardDesc": "전월실적 상관없이 0.7% 캐시백!",
+        "cardAnnual": "국내 1만원, 해외 1만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10355/SH_10355_20240503-190550_ver.png",
+        "cardName": "신한카드 K-패스",
+        "cardDesc": "넷플릭스, 올리브영 등 5% 할인",
+        "cardAnnual": "국내 7천원, 해외 1만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10218/SH_10218_20250429-174117_ver.png",
+        "cardName": "신한카드 EVerywhere",
+        "cardDesc": "전기차 충전요금 최대 50% 캐시백",
+        "cardAnnual": "국내 1만9천원, 해외 2만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10416/SH_10416_20241101-165555_ver.png",
+        "cardName": "신한카드 처음(ANNIVERSE)",
+        "cardDesc": "음식점, 카페, 편의점 5% 적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10053/SH_10053_20231127-160206_hor.png",
+        "cardName": "메리어트 본보이™ 더 베스트 신한카드",
+        "cardDesc": "메리어트 호텔 무료 숙박권 제공",
+        "cardAnnual": "국내 26만4천원, 해외 26만7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10429/SH_10429_20241119-132453_hor.png",
+        "cardName": "신한카드 The BEST-F",
+        "cardDesc": "연1회 쇼핑/레스토랑 기프트옵션 제공",
+        "cardAnnual": "국내 22만2천원, 해외 22만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10409/SH_10409_20240923-171225_ver.png",
+        "cardName": "신한카드 Edu Plan+",
+        "cardDesc": "기본 학원비 3~10% 캐시백카드",
+        "cardAnnual": "국내 4만원, 해외 4만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10234/SH_10234_20230224-134132_ver.png",
+        "cardName": "신한카드 구독 좋아요",
+        "cardDesc": "5개 영역 디지털 구독 정기결제 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/1591/SH_1591_hor.png",
+        "cardName": "신한카드 Shopping",
+        "cardDesc": "백화점/아울렛/대형마트 10% 할인",
+        "cardAnnual": "국내 2만원, 해외 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10444/SH_10444_20241204-102318_ver.png",
+        "cardName": "신한 후불 기후동행 신용카드",
+        "cardDesc": "서울시 대중교통 혜택 적용 카드",
+        "cardAnnual": "국내 9천원, 해외 1만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/1571/SH_1571_20221220-111828_ver.png",
+        "cardName": "신한카드 RPM+ Platinum#",
+        "cardDesc": "모든 주유소 리터당 40~150P적립",
+        "cardAnnual": "국내 3만2천원, 해외 3만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10469/SH_10469_20250314-144312_ver.png",
+        "cardName": "신한카드 The CLASSIC-S",
+        "cardDesc": "분기별 보너스 포인트 적립",
+        "cardAnnual": "국내 9만7천원, 해외 10만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/1773/SH_1773_hor.png",
+        "cardName": "신세계 신한카드",
+        "cardDesc": "신세계백화점/이마트 5% 결제일 할인",
+        "cardAnnual": "국내 1만2천원, 해외 1만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10402/SH_10402_20240802-134435_ver.png",
+        "cardName": "신한카드 Point Plan+",
+        "cardDesc": "국내 가맹점 최대 3% 포인트 적립",
+        "cardAnnual": "국내 3만원, 해외 3만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10364/SH_10364_20240528-173326_ver.png",
+        "cardName": "신한카드 처음",
+        "cardDesc": "쿠팡와우/네이버플러스 20% 적립",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10467/SH_10467_20250313-145706_ver.png",
+        "cardName": "신한카드 The CLASSIC-V",
+        "cardDesc": "연간 기프트 옵션 서비스 제공",
+        "cardAnnual": "국내 19만7천원, 해외 20만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10035/SH_10035_20210303-152640_hor.png",
+        "cardName": "신한카드 국민행복",
+        "cardDesc": "어린이집/유치원 부모부담금 10%할인",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2348/SH_2348_hor.png",
+        "cardName": "신한카드 경차사랑 Life",
+        "cardDesc": "유류세 리터당 250원! 주유 80원",
+        "cardAnnual": "국내전용 없음, 해외겸용 없음"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10207/SH_10207_20221215-153223_ver.png",
+        "cardName": "신한카드 알뜰More(알뜰모아)",
+        "cardDesc": "알뜰폰 통신요금 할인카드",
+        "cardAnnual": "국내 2만원, 해외 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10445/SH_10445_20241206-153231_hor.png",
+        "cardName": "신한카드 Biz Plan",
+        "cardDesc": "사업성 경비 업종 4% 추가 적립",
+        "cardAnnual": "국내 3만원, 해외 3만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/3756/SH_3756_20230721-100538_ver.png",
+        "cardName": "신한카드 MY CAR",
+        "cardDesc": "전국 주유소 리터당 80원 결제일할인",
+        "cardAnnual": "국내 2만7천원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10327/SH_10327_20240304-100741_ver.png",
+        "cardName": "신한카드 Point Plan",
+        "cardDesc": "해외 결제금액 1% 포인트 적립",
+        "cardAnnual": "국내 2만원, 해외 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10482/SH_10482_20250422-154619_ver.png",
+        "cardName": "신한카드 Point Plan(산리오캐릭터즈)",
+        "cardDesc": "국내외 가맹점 최대 3% 포인트 적립",
+        "cardAnnual": "국내 2만원, 해외 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2533/SH_2533_hor.png",
+        "cardName": "신한카드 Deep On Platinum+",
+        "cardDesc": "온라인 간편결제 최대 20% 할인",
+        "cardAnnual": "국내 3만원, 해외 3만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10410/SH_10410_20240923-171334_ver.png",
+        "cardName": "신한카드 The PET",
+        "cardDesc": "전국 동물병원 30% 결제일 할인",
+        "cardAnnual": "국내 2만원, 해외 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/1570/SH_1570_hor.png",
+        "cardName": "신한카드 YOLOⓘ",
+        "cardDesc": "카페/영화/택시 등 최대 20% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/1292/SH_1292_hor.png",
+        "cardName": "신한카드 B.Big(삑)",
+        "cardDesc": "버스, 지하철 일 최대 600원 할인",
+        "cardAnnual": "국내 1만원, 해외 1만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2532/SH_2532_hor.png",
+        "cardName": "신한카드 Deep Store",
+        "cardDesc": "생활쇼핑 최대 15% 결제일 할인",
+        "cardAnnual": "국내 1만3천원, 해외 1만6천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/3636/SH_3636_hor.png",
+        "cardName": "신한카드 YaY",
+        "cardDesc": "넷플릭스, 유튜브 프리미엄 30%적립",
+        "cardAnnual": "국내 2만3천원, 해외 2만6천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10201/SH_10201_20240415-144041_ver.png",
+        "cardName": "티머니 Pay & GO 신한카드",
+        "cardDesc": "버스, 지하철 30% 결제일 할인카드",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2976/SH_2976_ver.png",
+        "cardName": "신한카드 B.Big(마이펫 스노우볼)",
+        "cardDesc": "대중교통 일 최대 600원 할인",
+        "cardAnnual": "국내 1만원, 해외 1만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10260/SH_10260_20230607-141031_ver.png",
+        "cardName": "신한카드 Globus",
+        "cardDesc": "해외 이용금액 1.7% 포인트 적립",
+        "cardAnnual": "국내 2만2천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10057/SH_10057_20210528-113059_hor.png",
+        "cardName": "IKEA Family with 신한카드",
+        "cardDesc": "IKEA 매장/푸드 최대 15% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/3816/SH_3816_ver.png",
+        "cardName": "L.PAY 신한카드",
+        "cardDesc": "전월실적/한도없이 0.1% 적립",
+        "cardAnnual": "국내 1만7천원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10455/SH_10455_20250124-114222_ver.png",
+        "cardName": "11번가 신한카드",
+        "cardDesc": "11PAY(구 sk페이) 포인트 적립",
+        "cardAnnual": "국내 5천원, 해외 8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10465/SH_10465_20250310-160715_ver.png",
+        "cardName": "LGE.COM 신한카드",
+        "cardDesc": "LGE.COM 플러스 서비스 제공",
+        "cardAnnual": "국내 2만5천원, 해외 2만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10245/SH_10245_20230331-174419_ver.png",
+        "cardName": "신한카드 플리(산리오캐릭터즈)",
+        "cardDesc": "국내 이용금액 최대 0.9% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10080/SH_10080_20211015-163339_ver.png",
+        "cardName": "#Pay 신한카드",
+        "cardDesc": "간편결제 이용 시 5% 포인트 적립",
+        "cardAnnual": "국내 2만7천원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10507/SH_10507_20250618-140009_ver.png",
+        "cardName": "KT 가족만족 DC 신한카드",
+        "cardDesc": "KT 통신요금 최대 1만5천원 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10500/SH_10500_20250612-150202_ver.png",
+        "cardName": "SKT T라이트 신한카드",
+        "cardDesc": "SKT 통신요금 최대 1만5천원 할인",
+        "cardAnnual": "국내 2만2천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10470/SH_10470_20250319-143248_ver.png",
+        "cardName": "메리어트 본보이™ 더 클래식 신한카드",
+        "cardDesc": "연간 기프트 메리어트 포인트 제공",
+        "cardAnnual": "국내 14만4천원, 해외 14만7천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10464/SH_10464_20250310-105643_ver.png",
+        "cardName": "신한카드 The BEST-X",
+        "cardDesc": "이용금액 1% 포인트적립",
+        "cardAnnual": "국내 31만7천원, 해외 32만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/3257/SH_3257_hor.png",
+        "cardName": "신한카드 Deep Once",
+        "cardDesc": "OTT/스타벅스 정기결제 포인트 적립",
+        "cardAnnual": "국내 2만원, 해외 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10488/SH_10488_20250429-170836_ver.png",
+        "cardName": "신한카드 Point Plan(서울시다둥이행복카드)",
+        "cardDesc": "국내 가맹점 최대 3% 포인트 적립",
+        "cardAnnual": "국내 2만원, 해외 2만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10415/SH_10415_20240924-113943_hor.png",
+        "cardName": "신한카드 The Premium PET",
+        "cardDesc": "전국 동물병원 30% 결제일 할인",
+        "cardAnnual": "국내 20만원, 해외 20만3천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2886/SH_2886_hor.png",
+        "cardName": "신한카드 Deep Making",
+        "cardDesc": "혜택도 적립률도 내맘대로 DIY",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10289/SH_10289_20240813-094210_ver.png",
+        "cardName": "신한카드 My TeenS",
+        "cardDesc": "만 12세 이상 미성년 가족 신용카드",
+        "cardAnnual": "국내 1천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/2885/SH_2885_hor.png",
+        "cardName": "신한카드 Deep Taking",
+        "cardDesc": "최다 이용 5개 영역 2% 자동 적립",
+        "cardAnnual": "국내 2만원, 해외 2만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/4016/SH_4016_20250516-162307_ver.png",
+        "cardName": "신한카드 Unboxing",
+        "cardDesc": "온/오프라인 쇼핑 10% 캐시백",
+        "cardAnnual": "국내 3만2천원, 해외 3만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10151/SH_10151_20231113-165157_ver.png",
+        "cardName": "신한카드 플리",
+        "cardDesc": "국내 이용금액 최대 0.9% 할인",
+        "cardAnnual": "국내 1만5천원, 해외 1만8천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10477/SH_10477_20250401-161447_ver.png",
+        "cardName": "신한카드 The CLASSIC-Y",
+        "cardDesc": "마이신한포인트 최대 5% 적립",
+        "cardAnnual": "국내전용 없음, 해외 10만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10513/SH_10513_20250626-095850_ver.png",
+        "cardName": "LG U+ Bora 신한카드 Big Plus",
+        "cardDesc": "LG U+ 통신요금 자동납부 할인",
+        "cardAnnual": "국내 2만2천원, 해외 2만5천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/3258/SH_3258_hor.png",
+        "cardName": "신한카드 Deep Once Plus",
+        "cardDesc": "OTT/스타벅스 정기결제 포인트 적립",
+        "cardAnnual": "국내 2만7천원, 해외 3만원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10471/SH_10471_20250320-142003_ver.png",
+        "cardName": "알리익스프레스 신한카드",
+        "cardDesc": "알리익스프레스 배송상품 10% 할인",
+        "cardAnnual": "국내 1만6천원, 해외 1만9천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10505/SH_10505_20250616-142613_ver.png",
+        "cardName": "신한카드 KaPick",
+        "cardDesc": "요일별 가맹점 이용시 5% 포인트적립",
+        "cardAnnual": "국내 1만9천원, 해외 2만2천원"
+    },
+    {
+        "cardImg": "https://vertical.pstatic.net/vertical-cardad/creatives/SH/10517/SH_10517_20250710-134352_ver.png",
+        "cardName": "신한카드 Haru(Hoshino Resorts)",
+        "cardDesc": "해외 이용 거래 2% 포인트 적립",
+        "cardAnnual": "국내 3만원, 해외 3만원"
+    }
+]
